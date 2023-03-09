@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header/> Create a SnapSort 1`] = `
+<div
+  className="addpage"
+>
+  <div
+    className="addtext"
+  >
+    Add Data
+  </div>
+  <NavLink
+    to="Home"
+  >
+    <button
+      className="btn-add"
+    >
+      Add
+    </button>
+  </NavLink>
+</div>
+`;
